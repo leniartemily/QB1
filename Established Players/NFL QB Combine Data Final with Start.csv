@@ -6,7 +6,7 @@ Year,Name,College,POS,ProDay/Combine,Height (in),Weight (lbs),Wonderlic,40 Yard,
 2021,Justin Fields,Ohio State,QB,ProDay,74.75,227,NA,4.46,NA,NA,119,NA,NA,No
 2021,Feleipe Franks,Arkansas,QB,ProDay,78.63,234,NA,4.61,NA,32.5,117,4.22,7.16,No
 2021,Trey Lance,North Dakota State,QB,ProDay,75.88,224,NA,NA,NA,NA,131,NA,NA,No
-2021,Trevor Lawrence,Clemson,QB,ProDay,77.63,213,NA,NA,NA,38.5,119,NA,NA,No
+2021,Trevor Lawrence,Clemson,QB,ProDay,77.63,213,NA,NA,NA,38.5,119,NA,NA,Yes
 2021,Kellen Mond,Texas A&M,QB,ProDay,74.63,211,NA,4.62,NA,NA,122,NA,NA,No
 2021,Jamie Newman,Wake Forest,QB,ProDay,74.88,234,NA,NA,NA,NA,114,NA,NA,No
 2021,Peyton Ramsey,Northwestern,QB,ProDay,73.88,215,NA,4.77,NA,28,108,4.41,7.28,No
@@ -263,7 +263,7 @@ Year,Name,College,POS,ProDay/Combine,Height (in),Weight (lbs),Wonderlic,40 Yard,
 2011,Adam Froman,Louisville,QB,ProDay,76,220,NA,4.54,NA,30.5,112,4.16,6.8,No
 2011,Blaine Gabbert,Missouri,QB,Combine,76.38,234,42,4.61,NA,33.5,120,4.26,6.84,Yes
 2011,Jerrod Johnson,Texas A&M,QB,Combine,77.13,251,NA,4.75,NA,29,119,4.31,7.28,No
-2011,Colin Kaepernick,Nevada,QB,Combine,76.63,233,NA,4.53,NA,32.5,115,4.18,6.85,No
+2011,Colin Kaepernick,Nevada,QB,Combine,76.63,233,NA,4.53,NA,32.5,115,4.18,6.85,Yes
 2011,Jake Locker,Washington,QB,Combine,74.5,231,20,4.51,NA,35,115,4.12,6.77,Yes
 2011,Ryan Mallett,Arkansas,QB,Combine,78.75,253,26,5.24,NA,24,103,NA,NA,No
 2011,Greg McElroy,Alabama,QB,Combine,73.88,220,43,4.84,NA,33,107,4.45,7.11,No
@@ -334,7 +334,7 @@ Year,Name,College,POS,ProDay/Combine,Height (in),Weight (lbs),Wonderlic,40 Yard,
 2008,Bernard Morris,Marshall (WV),QB,Combine,75,223,NA,4.77,18,24.5,109,NA,NA,No
 2008,Kevin O'Connell,San Diego State,QB,Combine,77,225,24,4.66,NA,31,113,4.38,7.01,No
 2008,T.C. Ostrander,Stanford,QB,Combine,74.13,227,NA,NA,NA,NA,NA,NA,NA,No
-2008,Matt Ryan,Boston College,QB,Combine,76.75,228,32,4.94,NA,NA,NA,4.51,7.4,No
+2008,Matt Ryan,Boston College,QB,Combine,76.75,228,32,4.94,NA,NA,NA,4.51,7.4,Yes
 2008,Paul Smith,Tulsa (OK),QB,Combine,73.25,208,NA,4.97,NA,26.5,111,4.29,7.02,No
 2008,Adam Tafralis,San Jose State,QB,Combine,73.13,221,NA,4.85,NA,32,108,4.33,7.14,No
 2008,Kyle Wright,Miami (FL),QB,Combine,75.4,218,NA,4.9,NA,25.5,105,4.32,7.34,No
@@ -369,7 +369,7 @@ Year,Name,College,POS,ProDay/Combine,Height (in),Weight (lbs),Wonderlic,40 Yard,
 2006,Justin Holland,Colorado State,QB,ProDay,74.38,219,NA,4.99,NA,29,105,4.46,7.46,No
 2006,Tarvaris Jackson,Alabama State,QB,Combine,74,226,19,4.7,22,31.5,107,4.38,7.4,No
 2006,Omar Jacobs,Bowling Green (OH),QB,Combine,75.88,232,38,4.86,NA,32.5,108,4.29,7.47,No
-2006,Matt Leinart,Southern California,QB,Both,76.88,223,35,4.9,NA,37,113,NA,NA,No
+2006,Matt Leinart,Southern California,QB,Both,76.88,223,35,4.9,NA,37,113,NA,NA,Yes
 2006,Travis Lulay,Montana State,QB,Combine,74.38,216,37,4.74,NA,35,111,4.07,6.93,No
 2006,Ingle Martin,Furman (SC),QB,Combine,74.25,220,30,4.72,NA,36,111,4.17,7.13,No
 2006,Reggie McNeal,Texas A&M,QB,Combine,74,198,NA,4.43,NA,32,121,4.25,6.96,No
