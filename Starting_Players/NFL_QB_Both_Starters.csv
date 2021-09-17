@@ -1,0 +1,55 @@
+﻿Year,Name,College,POS,ProDay/Combine,Height_In,Weight_In,Wonderlic,40_Yard,BenchPress,VertLeap_In,BroadJump_In,Shuttle,3Cone,Started
+2020,Jake Luton,Oregon State,QB,Both,78.13,224,NA,5.07,NA,28.5,NA,4.6,7.85,Yes
+2019,Nick Fitzgerald,Mississippi State,QB,Both,76.63,226,NA,4.64,NA,29.5,115,4.56,7.42,No
+2019,Chase Forrest,California,QB,Both,73.5,202,NA,4.93,NA,27,NA,NA,NA,No
+2019,T.J. Linta,Wagner (NY),QB,Both,75.25,233,NA,5.22,NA,NA,NA,4.68,NA,No
+2019,Marcus McMaryion,Frenso State (CA),QB,Both,72.75,206,NA,4.76,NA,35,110,4.32,NA,No
+2019,Wilton Speight,UCLA,QB,Both,78.63,232,NA,4.89,NA,NA,NA,NA,NA,No
+2019,Brent Stockstill,Middle Tennessee State,QB,Both,71.63,210,NA,4.79,NA,24.5,108,NA,NA,No
+2019,Manny Wilkins,Arizona State,QB,Both,74,193,NA,4.84,NA,33,119,NA,NA,No
+2018,Kyle Allen,Houston,QB,Both,75.25,210,NA,4.71,NA,28.5,113,4.26,NA,No
+2018,Kenny Hill,Texas Christian,QB,Both,73.88,209,NA,4.78,NA,NA,NA,NA,NA,No
+2018,Chad Kanoff,Princeton,QB,Both,76,219,NA,5.03,NA,32.5,111,NA,NA,No
+2018,Richard Lagow,Indiana,QB,Both,77,219,NA,5.02,NA,NA,NA,4.74,7.63,No
+2018,Mason Rudolph,Oklahoma State,QB,Both,76.63,235,NA,4.9,NA,26,107,4.56,NA,Yes
+2017,C.J. Beathard,Iowa,QB,Both,74.13,219,26,NA,NA,31,113,4.23,6.95,Yes
+2017,Alek Torgersen,Pennsylvania,QB,Both,74.38,230,NA,4.91,NA,30,117,4.31,7.75,No
+2016,Nate Sudfeld,Indiana,QB,Both,78.13,234,NA,4.93,NA,29,105,4.48,7.42,Yes
+2015,Chris Bonner,Colorado State-Pueblo,QB,Both,78.25,237,NA,5.12,NA,27,101,4.6,7.56,No
+2015,Terrance Broadway,Louisiana-Lafayette,QB,Both,72.63,223,NA,4.62,NA,34,120,NA,NA,No
+2015,Rakeem Cato,Marshall (WV),QB,Both,72.13,171,NA,4.7,NA,34,113,NA,NA,No
+2015,Quinn Epperly,Princeton,QB,Both,73.75,218,NA,4.89,NA,32.5,112,4.32,6.99,No
+2015,Garrett Grayson,Colorado State,QB,Both,74.5,213,20,4.84,NA,34,121,4.35,6.97,Yes
+2015,Grant Hedrick,Boise State,QB,Both,71.75,191,NA,4.76,NA,31.5,111,4.35,7.06,No
+2015,Taylor Heinicke,Old Dominion (VA),QB,Both,72.38,211,NA,4.76,NA,35,123,4.21,6.96,No
+2015,Taylor Kelly,Arizona State,QB,Both,73.5,198,NA,4.84,NA,31,122,4.16,6.8,No
+2015,Jerry Lovelocke,Prairie View A&M,QB,Both,76.5,248,NA,4.99,10,31.5,113,4.51,7.3,No
+2015,Hutson Mason,Georgia,QB,Both,73.75,207,NA,4.79,NA,28,102,4.41,7.43,No
+2015,Tyler Murphy,Boston College,QB,Both,73.5,210,NA,4.78,NA,38,125,4.34,7.11,No
+2015,Gary Nova,Rutgers,QB,Both,73.38,222,NA,4.63,NA,34,115,4.46,7.03,No
+2015,Kevin Rodgers,Henderson State (AR),QB,Both,74.75,201,NA,5.12,10,32,116,4.56,7.48,No
+2015,Garrett Safron,Sacramento State (CA),QB,Both,72.88,200,NA,4.76,NA,36.5,127,4.22,6.85,No
+2015,Max Shortell,Jacksonville State (AL),QB,Both,76.75,240,NA,5.04,NA,26.5,99,4.46,7.47,No
+2015,Jameill Showers,Texas-El Paso,QB,Both,73.75,231,NA,4.76,NA,38,121,4.5,7.48,No
+2015,Blake Sims,Alabama,QB,Both,71.5,218,NA,4.57,NA,30.5,115,NA,7.15,No
+2015,Cole Stoudt,Clemson,QB,Both,76.63,218,NA,4.86,NA,31,117,4.38,6.95,No
+2015,Pete Thomas,Louisiana-Monroe,QB,Both,77.25,232,NA,5.06,NA,30,110,4.4,7.25,No
+2015,Dylan Thompson,South Carolina,QB,Both,73.75,223,NA,4.83,NA,35,113,4.35,7.27,No
+2015,Bo Wallace,Mississippi,QB,Both,75.63,211,NA,5.08,NA,NA,104,NA,NA,No
+2014,Teddy Bridgewater,Louisville,QB,Both,74.13,214,20,4.79,NA,30,112,4.2,7.17,Yes
+2013,Matt Barkley,Southern California,QB,Both,74.5,230,30,4.91,NA,NA,NA,4.58,NA,Yes
+2012,B.J. Coleman,Tennessee-Chattanooga,QB,Both,75,233,NA,4.95,NA,29.5,109,4.38,7.07,No
+2012,Nick Foles,Arizona,QB,Both,77,243,29,5.03,NA,30.5,112,4.68,7.14,Yes
+2012,Tyler Hansen,Colorado,QB,Both,72.63,218,NA,4.85,NA,29,109,4.37,7.44,No
+2012,Case Keenum,Houston,QB,Both,72.63,208,NA,4.72,18,32.5,103,4.28,6.87,No
+2012,Brandon Weeden,Oklahoma State,QB,Both,75.5,221,27,4.89,NA,32,102,4.45,7.36,Yes
+2011,Ryan Colburn,Frenso State (CA),QB,Both,74.75,233,NA,5.12,NA,30.5,NA,4.28,6.84,No
+2010,Daryll Clark,Penn State,QB,Both,73.88,235,NA,4.72,21,33,116,4.28,6.97,No
+2009,Rudy Carpenter,Arizona State,QB,Both,73.63,218,NA,4.89,11,29,100,4.47,7.25,No
+2009,Chase Daniel,Missouri,QB,Both,72,218,NA,4.79,NA,33,108,4.31,7.28,No
+2007,Brady Quinn,Notre Dame,QB,Both,75.75,232,29,4.73,24,36,115,4.22,6.79,Yes
+2006,Matt Leinart,Southern California,QB,Both,76.88,223,35,4.9,NA,37,113,NA,NA,Yes
+2006,Drew Olson,UCLA,QB,Both,73.63,222,NA,5.12,NA,23,97,4.42,7.64,No
+2005,Jason Campbell,Auburn,QB,Both,76.75,230,28,4.72,NA,38,NA,NA,7.42,Yes
+2005,Aaron Rodgers,California,QB,Both,74,223,39,4.75,NA,34.5,110,4.32,7.38,Yes
+2005,Andrew Walter,Arizona State,QB,Both,78.13,233,NA,4.86,NA,NA,NA,NA,NA,Yes
