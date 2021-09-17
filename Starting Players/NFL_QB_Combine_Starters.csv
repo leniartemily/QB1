@@ -1,4 +1,4 @@
-﻿Year,Name,College,POS,ProDay/Combine,Height (in),Weight (lbs),Wonderlic,40 Yard,Bench Press,Vert Leap (in),Broad Jump (in),Shuttle,3Cone,Started
+﻿Year,Name,College,POS,ProDay/Combine,Height_In,Weight_In,Wonderlic,40_Yard,BenchPress,VertLeap_In,BroadJump_In,Shuttle,3Cone,Started
 2020,Kelly Bryant,Missouri,QB,Combine,75.13,229,NA,4.69,NA,35,125,4.51,7.33,No
 2020,Joe Burrow,Louisiana State,QB,Combine,75.63,221,NA,NA,NA,NA,NA,NA,NA,Yes
 2020,Kevin Davidson,Princeton,QB,Combine,76.13,224,NA,5,NA,28,109,4.37,7.13,No

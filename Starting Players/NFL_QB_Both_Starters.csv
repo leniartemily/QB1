@@ -1,4 +1,4 @@
-﻿Year,Name,College,POS,ProDay/Combine,Height (in),Weight (lbs),Wonderlic,40 Yard,Bench Press,Vert Leap (in),Broad Jump (in),Shuttle,3Cone,Started
+﻿Year,Name,College,POS,ProDay/Combine,Height_In,Weight_In,Wonderlic,40_Yard,BenchPress,VertLeap_In,BroadJump_In,Shuttle,3Cone,Started
 2020,Jake Luton,Oregon State,QB,Both,78.13,224,NA,5.07,NA,28.5,NA,4.6,7.85,Yes
 2019,Nick Fitzgerald,Mississippi State,QB,Both,76.63,226,NA,4.64,NA,29.5,115,4.56,7.42,No
 2019,Chase Forrest,California,QB,Both,73.5,202,NA,4.93,NA,27,NA,NA,NA,No
