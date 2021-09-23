@@ -35,6 +35,8 @@ Obtained the ten most popular songs from each year and loaded them into a mongoD
 
 ### Project Link
 * Google Slides URL: https://docs.google.com/presentation/d/1jI8SsifyVYp6AigIzRbnYLuUk9FWtRPXjRXzXWmC2t8/edit#slide=id.gebd5dd7c4d_0_10
+* Tableau Visualizations URL:
+https://public.tableau.com/app/profile/gary.wong8523/viz/NFLCombine2021/Dashboard1?publish=yes
 
 ## Who can use this data
 
